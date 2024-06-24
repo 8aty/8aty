@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👾 **8aty's GitHub** 👾
 
-<!--
-**8aty/8aty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **8aty** 🎮
 
-Here are some ideas to get you started:
+I'm a **gamer** and a **learning developer** who loves tech and digital stuff! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Favorite Games:
+- Call of Duty 🎯
+- VALORANT 🔫
+- Shooters in general 💥
+
+## 💻 Skills:
+- HTML 🌐
+- CSS 🎨
+
+Still learning and growing every day! 📚🚀
+
+Feel free to check out my repositories and connect with me! 💻✨
+
+📧 **Contact me:** [contact@tomy.cc](mailto:contact@tomy.cc)
